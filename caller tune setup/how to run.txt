@@ -1,0 +1,11 @@
+-- first install by going into command prompt and type "pip install pygame" and " pip pip install customtkinter pygame it will automatically install it. internet connctionis required to install.
+-- open it by clicking right click and run/edit with IDLE (3.6.5).
+-- run the programme.
+-- i am not including music due to size add music as per your need
+
+
+
+
+
+----- created by Hridhanu Bose -------
+----- Thankyou --------
