@@ -93,4 +93,4 @@ python proj1.py
 - ✅ **More Language Support** - Add regional Indian languages
 - ✅ **Online Song Fetching** - Stream songs from the internet instead of local storage
 
-## NOTE: not including music due to size add music as per your need in every folder
+## NOTE: Not including music files due to size. Add music as per your need in every folder
